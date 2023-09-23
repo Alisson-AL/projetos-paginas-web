@@ -5,5 +5,5 @@ Neste repositório, estão alguns modelos de sites que estou desenvolvendo para 
 Atualizações serão lançadas.
 
 Template 1: Versão 1.0
-- Ajudestes de imagens de brackgrounds
+- Ajustes de imagens de brackgrounds
 - Nova seção inclusa
