@@ -7,3 +7,4 @@ Atualizações serão lançadas.
 Template 1: Versão 1.0
 - Ajustes de imagens de brackgrounds
 - Nova seção inclusa
+- Responsividade - em breve
