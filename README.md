@@ -1,3 +1,3 @@
 # template-paginas-web
 
-Projetos páginas WEB 
+Projeto de um site de design de interiores.
